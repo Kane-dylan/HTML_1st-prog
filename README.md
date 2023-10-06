@@ -8,5 +8,5 @@ This is The  1st HTML Project made by me !
 ## Contact_us Page
 ![image](https://github.com/Kane-dylan/HTML_1st-prog/assets/139806450/33674bc0-dcc3-491b-af7b-4e7398212c5d)
 
-## Hours Pagg
+## Hours Page
 ![image](https://github.com/Kane-dylan/HTML_1st-prog/assets/139806450/dd3a273b-29f9-4885-8df7-8335ea718d21)
