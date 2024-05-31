@@ -28,7 +28,7 @@ Welcome to the Coffee Shop Online Ordering System! This project aims to help loc
 
 ## Deployment
 
-The project is deployed using GitHub Pages. You can access the live version here: [Coffee Shop Online](https://github.com/Kane-dylan/HTML_1st-prog/)
+The project is deployed using GitHub Pages. You can access the live version here: [Coffee Shop Online](https://kane-dylan.github.io/HTML_1st-prog/)
 
 ## Contributing
 
